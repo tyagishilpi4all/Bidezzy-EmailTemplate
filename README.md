@@ -1,0 +1,2 @@
+# Bidezzy-EmailTemplate
+email -template
